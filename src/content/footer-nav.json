@@ -59,7 +59,7 @@
         },
         {
           "text": "Security vulnerabilities",
-          "link": "https://github.com/kata-containers/community?tab=readme-ov-file#vulnerability-handling"
+          "link": "https://github.com/kata-containers/kata-containers/blob/main/SECURITY.md"
         }
       ]
     }
